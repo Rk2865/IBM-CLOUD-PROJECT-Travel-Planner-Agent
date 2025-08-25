@@ -128,5 +128,3 @@ Licensed Materials - Copyright © 2024 IBM.
 Released under the **ILAN License** (see Watsonx.ai License Terms).  
 
 ***
-
-👉 Would you like me to also create a **"Quick Start deployment script"** (`deploy.py`) alongside `README.md` so you don’t always have to run the notebook manually?
