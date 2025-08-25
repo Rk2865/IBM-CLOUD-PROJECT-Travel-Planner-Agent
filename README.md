@@ -1,8 +1,5 @@
 # IBM-CLOUD-PROJECT-Travel-Planner-Agent
 
-Got it ✅  
-You’ve implemented an **AI Service Deployment Notebook** for Watsonx.ai that defines, promotes, stores, deploys, and tests an **AI-powered Travel Planner Agent**. I’ll create a `README.md` file that explains the structure, workflow, and conclusion of this project in a professional and clear way.  
-
 ***
 
 # 📘 README.md  
